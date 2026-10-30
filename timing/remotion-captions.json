@@ -1,0 +1,1017 @@
+[
+  {
+    "text": " In",
+    "startMs": 0,
+    "endMs": 340,
+    "timestampMs": 0,
+    "confidence": 0.5129043459892273
+  },
+  {
+    "text": " the",
+    "startMs": 340,
+    "endMs": 540,
+    "timestampMs": 340,
+    "confidence": 0.9970855116844177
+  },
+  {
+    "text": " last",
+    "startMs": 540,
+    "endMs": 740,
+    "timestampMs": 540,
+    "confidence": 0.9957636594772339
+  },
+  {
+    "text": " few",
+    "startMs": 740,
+    "endMs": 900,
+    "timestampMs": 740,
+    "confidence": 0.984826922416687
+  },
+  {
+    "text": " months,",
+    "startMs": 900,
+    "endMs": 1160,
+    "timestampMs": 900,
+    "confidence": 0.995408833026886
+  },
+  {
+    "text": " I",
+    "startMs": 1320,
+    "endMs": 1420,
+    "timestampMs": 1320,
+    "confidence": 0.9936875700950623
+  },
+  {
+    "text": " shipped",
+    "startMs": 1420,
+    "endMs": 1620,
+    "timestampMs": 1420,
+    "confidence": 0.9320647716522217
+  },
+  {
+    "text": " four",
+    "startMs": 1620,
+    "endMs": 1980,
+    "timestampMs": 1620,
+    "confidence": 0.7879974842071533
+  },
+  {
+    "text": " real",
+    "startMs": 1980,
+    "endMs": 2200,
+    "timestampMs": 1980,
+    "confidence": 0.899421751499176
+  },
+  {
+    "text": " products,",
+    "startMs": 2200,
+    "endMs": 2780,
+    "timestampMs": 2200,
+    "confidence": 0.9973949193954468
+  },
+  {
+    "text": " not",
+    "startMs": 3320,
+    "endMs": 3500,
+    "timestampMs": 3320,
+    "confidence": 0.9846092462539673
+  },
+  {
+    "text": " mockups,",
+    "startMs": 3500,
+    "endMs": 4040,
+    "timestampMs": 3500,
+    "confidence": 0.7024132013320923
+  },
+  {
+    "text": " and",
+    "startMs": 4240,
+    "endMs": 4440,
+    "timestampMs": 4240,
+    "confidence": 0.9923412799835205
+  },
+  {
+    "text": " we",
+    "startMs": 4440,
+    "endMs": 4660,
+    "timestampMs": 4440,
+    "confidence": 0.9976769089698792
+  },
+  {
+    "text": " build",
+    "startMs": 4660,
+    "endMs": 4800,
+    "timestampMs": 4660,
+    "confidence": 0.8771961331367493
+  },
+  {
+    "text": " things",
+    "startMs": 4800,
+    "endMs": 5060,
+    "timestampMs": 4800,
+    "confidence": 0.9984601736068726
+  },
+  {
+    "text": " the",
+    "startMs": 5060,
+    "endMs": 5300,
+    "timestampMs": 5060,
+    "confidence": 0.9929370284080505
+  },
+  {
+    "text": " smarter",
+    "startMs": 5300,
+    "endMs": 5480,
+    "timestampMs": 5300,
+    "confidence": 0.997191846370697
+  },
+  {
+    "text": " way.",
+    "startMs": 5480,
+    "endMs": 6000,
+    "timestampMs": 5480,
+    "confidence": 0.9991138577461243
+  },
+  {
+    "text": " First,",
+    "startMs": 6340,
+    "endMs": 6680,
+    "timestampMs": 6340,
+    "confidence": 0.9792020916938782
+  },
+  {
+    "text": " ClipFlow.",
+    "startMs": 6980,
+    "endMs": 7360,
+    "timestampMs": 6980,
+    "confidence": 0.7411345740159353
+  },
+  {
+    "text": " It",
+    "startMs": 7940,
+    "endMs": 7940,
+    "timestampMs": 7940,
+    "confidence": 0.9893566966056824
+  },
+  {
+    "text": " scans",
+    "startMs": 7940,
+    "endMs": 8220,
+    "timestampMs": 7940,
+    "confidence": 0.9975805282592773
+  },
+  {
+    "text": " long",
+    "startMs": 8220,
+    "endMs": 8520,
+    "timestampMs": 8220,
+    "confidence": 0.9950887560844421
+  },
+  {
+    "text": " videos,",
+    "startMs": 8520,
+    "endMs": 9000,
+    "timestampMs": 8520,
+    "confidence": 0.9966289401054382
+  },
+  {
+    "text": " finds",
+    "startMs": 9280,
+    "endMs": 9480,
+    "timestampMs": 9280,
+    "confidence": 0.9921884536743164
+  },
+  {
+    "text": " the",
+    "startMs": 9480,
+    "endMs": 9700,
+    "timestampMs": 9480,
+    "confidence": 0.997421383857727
+  },
+  {
+    "text": " viral",
+    "startMs": 9700,
+    "endMs": 9920,
+    "timestampMs": 9700,
+    "confidence": 0.9970746040344238
+  },
+  {
+    "text": " moments,",
+    "startMs": 9920,
+    "endMs": 10340,
+    "timestampMs": 9920,
+    "confidence": 0.9967124462127686
+  },
+  {
+    "text": " adds",
+    "startMs": 10780,
+    "endMs": 11080,
+    "timestampMs": 10780,
+    "confidence": 0.987458348274231
+  },
+  {
+    "text": " animated",
+    "startMs": 11080,
+    "endMs": 11540,
+    "timestampMs": 11080,
+    "confidence": 0.9987672567367554
+  },
+  {
+    "text": " captions,",
+    "startMs": 11540,
+    "endMs": 11980,
+    "timestampMs": 11540,
+    "confidence": 0.9981911778450012
+  },
+  {
+    "text": " and",
+    "startMs": 12460,
+    "endMs": 12600,
+    "timestampMs": 12460,
+    "confidence": 0.9976128339767456
+  },
+  {
+    "text": " posts",
+    "startMs": 12600,
+    "endMs": 12840,
+    "timestampMs": 12600,
+    "confidence": 0.9899412989616394
+  },
+  {
+    "text": " straight",
+    "startMs": 12840,
+    "endMs": 13160,
+    "timestampMs": 12840,
+    "confidence": 0.9964109063148499
+  },
+  {
+    "text": " to",
+    "startMs": 13160,
+    "endMs": 13380,
+    "timestampMs": 13160,
+    "confidence": 0.9981077909469604
+  },
+  {
+    "text": " Instagram",
+    "startMs": 13380,
+    "endMs": 13760,
+    "timestampMs": 13380,
+    "confidence": 0.9961663484573364
+  },
+  {
+    "text": " and",
+    "startMs": 13760,
+    "endMs": 14040,
+    "timestampMs": 13760,
+    "confidence": 0.9950189590454102
+  },
+  {
+    "text": " YouTube,",
+    "startMs": 14040,
+    "endMs": 14440,
+    "timestampMs": 14040,
+    "confidence": 0.9771319031715393
+  },
+  {
+    "text": " then",
+    "startMs": 14960,
+    "endMs": 15160,
+    "timestampMs": 14960,
+    "confidence": 0.9834893941879272
+  },
+  {
+    "text": " Wireframer.",
+    "startMs": 15160,
+    "endMs": 15780,
+    "timestampMs": 15160,
+    "confidence": 0.6314421792825063
+  },
+  {
+    "text": " Give",
+    "startMs": 16480,
+    "endMs": 16640,
+    "timestampMs": 16480,
+    "confidence": 0.988503634929657
+  },
+  {
+    "text": " it",
+    "startMs": 16640,
+    "endMs": 16820,
+    "timestampMs": 16640,
+    "confidence": 0.9988664388656616
+  },
+  {
+    "text": " one",
+    "startMs": 16820,
+    "endMs": 17060,
+    "timestampMs": 16820,
+    "confidence": 0.9872381687164307
+  },
+  {
+    "text": " prompt",
+    "startMs": 17060,
+    "endMs": 17300,
+    "timestampMs": 17060,
+    "confidence": 0.9992721676826477
+  },
+  {
+    "text": " or",
+    "startMs": 17300,
+    "endMs": 17520,
+    "timestampMs": 17300,
+    "confidence": 0.7712001800537109
+  },
+  {
+    "text": " one",
+    "startMs": 17520,
+    "endMs": 17760,
+    "timestampMs": 17520,
+    "confidence": 0.9897778630256653
+  },
+  {
+    "text": " reference",
+    "startMs": 17760,
+    "endMs": 18020,
+    "timestampMs": 17760,
+    "confidence": 0.9975067973136902
+  },
+  {
+    "text": " image,",
+    "startMs": 18020,
+    "endMs": 18380,
+    "timestampMs": 18020,
+    "confidence": 0.9982283711433411
+  },
+  {
+    "text": " and",
+    "startMs": 18680,
+    "endMs": 18820,
+    "timestampMs": 18680,
+    "confidence": 0.9983686804771423
+  },
+  {
+    "text": " it",
+    "startMs": 18820,
+    "endMs": 19020,
+    "timestampMs": 18820,
+    "confidence": 0.9989008903503418
+  },
+  {
+    "text": " designs",
+    "startMs": 19020,
+    "endMs": 19240,
+    "timestampMs": 19020,
+    "confidence": 0.9918096661567688
+  },
+  {
+    "text": " a",
+    "startMs": 19240,
+    "endMs": 19460,
+    "timestampMs": 19240,
+    "confidence": 0.9953202605247498
+  },
+  {
+    "text": " full",
+    "startMs": 19460,
+    "endMs": 19620,
+    "timestampMs": 19460,
+    "confidence": 0.9991293549537659
+  },
+  {
+    "text": " screen",
+    "startMs": 19620,
+    "endMs": 19900,
+    "timestampMs": 19620,
+    "confidence": 0.9489901661872864
+  },
+  {
+    "text": " for",
+    "startMs": 19900,
+    "endMs": 20120,
+    "timestampMs": 19900,
+    "confidence": 0.9966132044792175
+  },
+  {
+    "text": " phone,",
+    "startMs": 20120,
+    "endMs": 20520,
+    "timestampMs": 20120,
+    "confidence": 0.9896344542503357
+  },
+  {
+    "text": " tablet",
+    "startMs": 20860,
+    "endMs": 21220,
+    "timestampMs": 20860,
+    "confidence": 0.9992087483406067
+  },
+  {
+    "text": " or",
+    "startMs": 21220,
+    "endMs": 21440,
+    "timestampMs": 21220,
+    "confidence": 0.46205562353134155
+  },
+  {
+    "text": " desktop,",
+    "startMs": 21440,
+    "endMs": 21920,
+    "timestampMs": 21440,
+    "confidence": 0.9960527420043945
+  },
+  {
+    "text": " clean",
+    "startMs": 22460,
+    "endMs": 22660,
+    "timestampMs": 22460,
+    "confidence": 0.9265854358673096
+  },
+  {
+    "text": " HTML,",
+    "startMs": 22660,
+    "endMs": 23180,
+    "timestampMs": 22660,
+    "confidence": 0.9829839468002319
+  },
+  {
+    "text": " CSS",
+    "startMs": 23800,
+    "endMs": 24160,
+    "timestampMs": 23800,
+    "confidence": 0.9887233972549438
+  },
+  {
+    "text": " and",
+    "startMs": 24160,
+    "endMs": 24480,
+    "timestampMs": 24160,
+    "confidence": 0.7440224885940552
+  },
+  {
+    "text": " JavaScript,",
+    "startMs": 24480,
+    "endMs": 25040,
+    "timestampMs": 24480,
+    "confidence": 0.9242009520530701
+  },
+  {
+    "text": " FoodSnap.",
+    "startMs": 25700,
+    "endMs": 26340,
+    "timestampMs": 25700,
+    "confidence": 0.6237993836402893
+  },
+  {
+    "text": " Point",
+    "startMs": 26340,
+    "endMs": 26780,
+    "timestampMs": 26340,
+    "confidence": 0.7858702540397644
+  },
+  {
+    "text": " your",
+    "startMs": 26780,
+    "endMs": 26940,
+    "timestampMs": 26780,
+    "confidence": 0.9890961050987244
+  },
+  {
+    "text": " camera",
+    "startMs": 26940,
+    "endMs": 27260,
+    "timestampMs": 26940,
+    "confidence": 0.9969419836997986
+  },
+  {
+    "text": " at",
+    "startMs": 27260,
+    "endMs": 27480,
+    "timestampMs": 27260,
+    "confidence": 0.986130952835083
+  },
+  {
+    "text": " any",
+    "startMs": 27480,
+    "endMs": 27680,
+    "timestampMs": 27480,
+    "confidence": 0.998230516910553
+  },
+  {
+    "text": " meal,",
+    "startMs": 27680,
+    "endMs": 27960,
+    "timestampMs": 27680,
+    "confidence": 0.9961032867431641
+  },
+  {
+    "text": " and",
+    "startMs": 28420,
+    "endMs": 28540,
+    "timestampMs": 28420,
+    "confidence": 0.9819236397743225
+  },
+  {
+    "text": " AI",
+    "startMs": 28540,
+    "endMs": 28760,
+    "timestampMs": 28540,
+    "confidence": 0.9242377281188965
+  },
+  {
+    "text": " gives",
+    "startMs": 28760,
+    "endMs": 28960,
+    "timestampMs": 28760,
+    "confidence": 0.9886313080787659
+  },
+  {
+    "text": " you",
+    "startMs": 28960,
+    "endMs": 29180,
+    "timestampMs": 28960,
+    "confidence": 0.9961315393447876
+  },
+  {
+    "text": " the",
+    "startMs": 29180,
+    "endMs": 29360,
+    "timestampMs": 29180,
+    "confidence": 0.9735656976699829
+  },
+  {
+    "text": " calories",
+    "startMs": 29360,
+    "endMs": 29620,
+    "timestampMs": 29360,
+    "confidence": 0.9980864524841309
+  },
+  {
+    "text": " instantly.",
+    "startMs": 29620,
+    "endMs": 30340,
+    "timestampMs": 29620,
+    "confidence": 0.9946042895317078
+  },
+  {
+    "text": " Diary,",
+    "startMs": 30880,
+    "endMs": 31400,
+    "timestampMs": 30880,
+    "confidence": 0.9777978360652924
+  },
+  {
+    "text": " progress",
+    "startMs": 31720,
+    "endMs": 32000,
+    "timestampMs": 31720,
+    "confidence": 0.8690704703330994
+  },
+  {
+    "text": " tracking",
+    "startMs": 32000,
+    "endMs": 32300,
+    "timestampMs": 32000,
+    "confidence": 0.9885075092315674
+  },
+  {
+    "text": " and",
+    "startMs": 32300,
+    "endMs": 32580,
+    "timestampMs": 32300,
+    "confidence": 0.4078423082828522
+  },
+  {
+    "text": " subscriptions",
+    "startMs": 32580,
+    "endMs": 33140,
+    "timestampMs": 32580,
+    "confidence": 0.9935455918312073
+  },
+  {
+    "text": " are",
+    "startMs": 33140,
+    "endMs": 33420,
+    "timestampMs": 33140,
+    "confidence": 0.9943482279777527
+  },
+  {
+    "text": " built",
+    "startMs": 33420,
+    "endMs": 33640,
+    "timestampMs": 33420,
+    "confidence": 0.9959611296653748
+  },
+  {
+    "text": " in,",
+    "startMs": 33640,
+    "endMs": 33940,
+    "timestampMs": 33640,
+    "confidence": 0.6119338274002075
+  },
+  {
+    "text": " and",
+    "startMs": 34220,
+    "endMs": 34380,
+    "timestampMs": 34220,
+    "confidence": 0.987794041633606
+  },
+  {
+    "text": " the",
+    "startMs": 34380,
+    "endMs": 34600,
+    "timestampMs": 34380,
+    "confidence": 0.989062488079071
+  },
+  {
+    "text": " AR",
+    "startMs": 34600,
+    "endMs": 34820,
+    "timestampMs": 34600,
+    "confidence": 0.9411652684211731
+  },
+  {
+    "text": " menu",
+    "startMs": 34820,
+    "endMs": 35120,
+    "timestampMs": 34820,
+    "confidence": 0.8133532404899597
+  },
+  {
+    "text": " viewer.",
+    "startMs": 35120,
+    "endMs": 35480,
+    "timestampMs": 35120,
+    "confidence": 0.9733267426490784
+  },
+  {
+    "text": " Customers",
+    "startMs": 36260,
+    "endMs": 36680,
+    "timestampMs": 36260,
+    "confidence": 0.9918831586837769
+  },
+  {
+    "text": " point",
+    "startMs": 36680,
+    "endMs": 36880,
+    "timestampMs": 36680,
+    "confidence": 0.9963459372520447
+  },
+  {
+    "text": " their",
+    "startMs": 36880,
+    "endMs": 37100,
+    "timestampMs": 36880,
+    "confidence": 0.9940875768661499
+  },
+  {
+    "text": " phone",
+    "startMs": 37100,
+    "endMs": 37360,
+    "timestampMs": 37100,
+    "confidence": 0.9941562414169312
+  },
+  {
+    "text": " at",
+    "startMs": 37360,
+    "endMs": 37540,
+    "timestampMs": 37360,
+    "confidence": 0.996528685092926
+  },
+  {
+    "text": " the",
+    "startMs": 37540,
+    "endMs": 37720,
+    "timestampMs": 37540,
+    "confidence": 0.9934737086296082
+  },
+  {
+    "text": " table,",
+    "startMs": 37720,
+    "endMs": 37980,
+    "timestampMs": 37720,
+    "confidence": 0.9978297352790833
+  },
+  {
+    "text": " and",
+    "startMs": 38400,
+    "endMs": 38500,
+    "timestampMs": 38400,
+    "confidence": 0.9917309880256653
+  },
+  {
+    "text": " the",
+    "startMs": 38500,
+    "endMs": 38660,
+    "timestampMs": 38500,
+    "confidence": 0.9819900989532471
+  },
+  {
+    "text": " dish",
+    "startMs": 38660,
+    "endMs": 38780,
+    "timestampMs": 38660,
+    "confidence": 0.9835719466209412
+  },
+  {
+    "text": " appears",
+    "startMs": 38780,
+    "endMs": 39160,
+    "timestampMs": 38780,
+    "confidence": 0.9960907101631165
+  },
+  {
+    "text": " in",
+    "startMs": 39160,
+    "endMs": 39460,
+    "timestampMs": 39160,
+    "confidence": 0.9944041967391968
+  },
+  {
+    "text": " 3D,",
+    "startMs": 39460,
+    "endMs": 39880,
+    "timestampMs": 39460,
+    "confidence": 0.9592272341251373
+  },
+  {
+    "text": " right",
+    "startMs": 40000,
+    "endMs": 40200,
+    "timestampMs": 40000,
+    "confidence": 0.9978392720222473
+  },
+  {
+    "text": " in",
+    "startMs": 40200,
+    "endMs": 40440,
+    "timestampMs": 40200,
+    "confidence": 0.998063862323761
+  },
+  {
+    "text": " front",
+    "startMs": 40440,
+    "endMs": 40520,
+    "timestampMs": 40440,
+    "confidence": 0.9991888403892517
+  },
+  {
+    "text": " of",
+    "startMs": 40520,
+    "endMs": 40700,
+    "timestampMs": 40520,
+    "confidence": 0.9957232475280762
+  },
+  {
+    "text": " them.",
+    "startMs": 40700,
+    "endMs": 40900,
+    "timestampMs": 40700,
+    "confidence": 0.999330997467041
+  },
+  {
+    "text": " Flutter,",
+    "startMs": 41460,
+    "endMs": 41820,
+    "timestampMs": 41460,
+    "confidence": 0.9909157752990723
+  },
+  {
+    "text": " Next",
+    "startMs": 42080,
+    "endMs": 42340,
+    "timestampMs": 42080,
+    "confidence": 0.9369391202926636
+  },
+  {
+    "text": " .js,",
+    "startMs": 42340,
+    "endMs": 42740,
+    "timestampMs": 42340,
+    "confidence": 0.9382927417755127
+  },
+  {
+    "text": " Node,",
+    "startMs": 43100,
+    "endMs": 43320,
+    "timestampMs": 43100,
+    "confidence": 0.9517815709114075
+  },
+  {
+    "text": " and",
+    "startMs": 43560,
+    "endMs": 43820,
+    "timestampMs": 43560,
+    "confidence": 0.9964649677276611
+  },
+  {
+    "text": " AI.",
+    "startMs": 43820,
+    "endMs": 44100,
+    "timestampMs": 43820,
+    "confidence": 0.992980420589447
+  },
+  {
+    "text": " I",
+    "startMs": 44560,
+    "endMs": 44780,
+    "timestampMs": 44560,
+    "confidence": 0.9882950782775879
+  },
+  {
+    "text": " build",
+    "startMs": 44780,
+    "endMs": 45000,
+    "timestampMs": 44780,
+    "confidence": 0.9736704230308533
+  },
+  {
+    "text": " fast,",
+    "startMs": 45000,
+    "endMs": 45420,
+    "timestampMs": 45000,
+    "confidence": 0.9969912767410278
+  },
+  {
+    "text": " and",
+    "startMs": 45540,
+    "endMs": 45680,
+    "timestampMs": 45540,
+    "confidence": 0.9985199570655823
+  },
+  {
+    "text": " I",
+    "startMs": 45680,
+    "endMs": 45860,
+    "timestampMs": 45680,
+    "confidence": 0.9970145225524902
+  },
+  {
+    "text": " ship.",
+    "startMs": 45860,
+    "endMs": 46040,
+    "timestampMs": 45860,
+    "confidence": 0.9903485774993896
+  },
+  {
+    "text": " Need",
+    "startMs": 46540,
+    "endMs": 46700,
+    "timestampMs": 46540,
+    "confidence": 0.997783362865448
+  },
+  {
+    "text": " a",
+    "startMs": 46700,
+    "endMs": 46920,
+    "timestampMs": 46700,
+    "confidence": 0.9967095851898193
+  },
+  {
+    "text": " product",
+    "startMs": 46920,
+    "endMs": 47120,
+    "timestampMs": 46920,
+    "confidence": 0.9980745315551758
+  },
+  {
+    "text": " built?",
+    "startMs": 47120,
+    "endMs": 47400,
+    "timestampMs": 47120,
+    "confidence": 0.9735653400421143
+  },
+  {
+    "text": " Message",
+    "startMs": 47800,
+    "endMs": 48120,
+    "timestampMs": 47800,
+    "confidence": 0.9886711835861206
+  },
+  {
+    "text": " me.",
+    "startMs": 48120,
+    "endMs": 48460,
+    "timestampMs": 48120,
+    "confidence": 0.99540776014328
+  },
+  {
+    "text": " And",
+    "startMs": 48780,
+    "endMs": 48920,
+    "timestampMs": 48780,
+    "confidence": 0.9648441672325134
+  },
+  {
+    "text": " if",
+    "startMs": 48920,
+    "endMs": 49040,
+    "timestampMs": 48920,
+    "confidence": 0.9631001353263855
+  },
+  {
+    "text": " you",
+    "startMs": 49040,
+    "endMs": 49180,
+    "timestampMs": 49040,
+    "confidence": 0.9982874989509583
+  },
+  {
+    "text": " want",
+    "startMs": 49180,
+    "endMs": 49280,
+    "timestampMs": 49180,
+    "confidence": 0.8263486623764038
+  },
+  {
+    "text": " to",
+    "startMs": 49280,
+    "endMs": 49400,
+    "timestampMs": 49280,
+    "confidence": 0.9971281886100769
+  },
+  {
+    "text": " know",
+    "startMs": 49400,
+    "endMs": 49520,
+    "timestampMs": 49400,
+    "confidence": 0.997580885887146
+  },
+  {
+    "text": " how",
+    "startMs": 49520,
+    "endMs": 49660,
+    "timestampMs": 49520,
+    "confidence": 0.9971555471420288
+  },
+  {
+    "text": " I",
+    "startMs": 49660,
+    "endMs": 49860,
+    "timestampMs": 49660,
+    "confidence": 0.9971369504928589
+  },
+  {
+    "text": " made",
+    "startMs": 49860,
+    "endMs": 49960,
+    "timestampMs": 49860,
+    "confidence": 0.9964293837547302
+  },
+  {
+    "text": " these",
+    "startMs": 49960,
+    "endMs": 50200,
+    "timestampMs": 49960,
+    "confidence": 0.996510922908783
+  },
+  {
+    "text": " motion",
+    "startMs": 50200,
+    "endMs": 50480,
+    "timestampMs": 50200,
+    "confidence": 0.9615465402603149
+  },
+  {
+    "text": " graphics,",
+    "startMs": 50480,
+    "endMs": 50920,
+    "timestampMs": 50480,
+    "confidence": 0.9986887574195862
+  },
+  {
+    "text": " comment",
+    "startMs": 51360,
+    "endMs": 51560,
+    "timestampMs": 51360,
+    "confidence": 0.9778010249137878
+  },
+  {
+    "text": " full",
+    "startMs": 51560,
+    "endMs": 51840,
+    "timestampMs": 51560,
+    "confidence": 0.35187581181526184
+  },
+  {
+    "text": " guide.",
+    "startMs": 51840,
+    "endMs": 52240,
+    "timestampMs": 51840,
+    "confidence": 0.7431831955909729
+  },
+  {
+    "text": " Follow",
+    "startMs": 52660,
+    "endMs": 52900,
+    "timestampMs": 52660,
+    "confidence": 0.9908820390701294
+  },
+  {
+    "text": " Thynk.",
+    "startMs": 52900,
+    "endMs": 53200,
+    "timestampMs": 52900,
+    "confidence": 0.2289906608251234
+  }
+]

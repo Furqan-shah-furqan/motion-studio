@@ -1,0 +1,15 @@
+{
+  "count": 20,
+  "embeddedImages": true,
+  "narrationEmbedded": true,
+  "sounds": [
+    "pop",
+    "whoosh",
+    "hit",
+    "chime"
+  ],
+  "font": true,
+  "oldHeader": "none",
+  "playback": 26.63875,
+  "errors": []
+}

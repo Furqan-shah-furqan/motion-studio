@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0,
+    "kind": "intro",
+    "name": "Four real products",
+    "end": 6.34,
+    "text": "In the last few months, I shipped four real products, not mockups, and we build things the smarter way."
+  },
+  {
+    "start": 6.34,
+    "kind": "clip",
+    "name": "ClipFlow",
+    "end": 9.92,
+    "text": "First, ClipFlow. It scans long videos, finds the viral"
+  },
+  {
+    "start": 9.92,
+    "kind": "publish",
+    "name": "Animated captions & publishing",
+    "end": 15.16,
+    "text": "moments, adds animated captions, and posts straight to Instagram and YouTube, then"
+  },
+  {
+    "start": 15.16,
+    "kind": "prompt",
+    "name": "Wireframer",
+    "end": 19.02,
+    "text": "Wireframer. Give it one prompt or one reference image, and it"
+  },
+  {
+    "start": 19.02,
+    "kind": "responsive",
+    "name": "Every screen",
+    "end": 25.7,
+    "text": "designs a full screen for phone, tablet or desktop, clean HTML, CSS and JavaScript,"
+  },
+  {
+    "start": 25.7,
+    "kind": "scan",
+    "name": "FoodSnap",
+    "end": 30.88,
+    "text": "FoodSnap. Point your camera at any meal, and AI gives you the calories instantly."
+  },
+  {
+    "start": 30.88,
+    "kind": "nutrition",
+    "name": "Diary & progress",
+    "end": 34.6,
+    "text": "Diary, progress tracking and subscriptions are built in, and the"
+  },
+  {
+    "start": 34.6,
+    "kind": "dine",
+    "name": "AR menu viewer",
+    "end": 41.46,
+    "text": "AR menu viewer. Customers point their phone at the table, and the dish appears in 3D, right in front of them."
+  },
+  {
+    "start": 41.46,
+    "kind": "stack",
+    "name": "The technology",
+    "end": 44.56,
+    "text": "Flutter, Next .js, Node, and AI."
+  },
+  {
+    "start": 44.56,
+    "kind": "motion",
+    "name": "Build fast. Ship.",
+    "end": 46.54,
+    "text": "I build fast, and I ship."
+  },
+  {
+    "start": 46.54,
+    "kind": "guide",
+    "name": "Need a product built?",
+    "end": 48.78,
+    "text": "Need a product built? Message me."
+  },
+  {
+    "start": 48.78,
+    "kind": "follow",
+    "name": "Full Guide",
+    "end": 54.186,
+    "text": "And if you want to know how I made these motion graphics, comment full guide. Follow Thynk."
+  }
+]

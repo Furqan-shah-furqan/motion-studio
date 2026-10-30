@@ -1,0 +1,184 @@
+{
+  "version": "3.0.0",
+  "previewRender": "Chromium headless using the generated portable editor HTML",
+  "previewCount": 20,
+  "templateCount": 20,
+  "sceneCountPerTemplate": 22,
+  "referenceLibraryItems": 79,
+  "referenceLibrarySmokeTest": {
+    "opened": true,
+    "visibleItemsInitially": 36,
+    "searchQuery": "wireframer",
+    "filteredItems": 23,
+    "pageErrors": []
+  },
+  "imageDecodeSmokeTest": {
+    "template": 1,
+    "visibleImages": 32,
+    "decodeFailures": [],
+    "pageErrors": []
+  },
+  "mp4Exports": "Not regenerated in this sandbox. Existing exports/video-01.mp4 through video-20.mp4 are preserved from the V2 baseline; the full renderer was attempted but did not finish within the available execution window. Regenerate with npm run render in a regular local Chromium environment.",
+  "previews": [
+    {
+      "template": 1,
+      "path": "previews/video-01.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 19340,
+      "sha256": "fe0b3c61db78c5f4a57ff4ad4db22ee09a1448360b2922fa03f96c752909a39b"
+    },
+    {
+      "template": 2,
+      "path": "previews/video-02.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 27642,
+      "sha256": "4b1936b574ac08b1731fd7f04f91cb5b01682fc21bda6448995ead9aa014293b"
+    },
+    {
+      "template": 3,
+      "path": "previews/video-03.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 16798,
+      "sha256": "f8ef1a769f7e39798567d42ddf6ef20228818b03df2cd601292c717cad024593"
+    },
+    {
+      "template": 4,
+      "path": "previews/video-04.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 23672,
+      "sha256": "06582c644c55b7459f2085514473b1a7d809f93d2550fbeef5afa5d30b50a532"
+    },
+    {
+      "template": 5,
+      "path": "previews/video-05.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 15113,
+      "sha256": "3fa0c2ce8f36300189d3f1824cee5d79734169b24ec6b76edf8798aca55f9e78"
+    },
+    {
+      "template": 6,
+      "path": "previews/video-06.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 20443,
+      "sha256": "77d7d9b1d73a16d681f0ae79b67efe2917258a837c0e5c1252de9ddfcca6e926"
+    },
+    {
+      "template": 7,
+      "path": "previews/video-07.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 17809,
+      "sha256": "715519051755bcc0fade97482367e5a5b0002a485ead4bbac6de25a583b42cf8"
+    },
+    {
+      "template": 8,
+      "path": "previews/video-08.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 22225,
+      "sha256": "c280a885f6c463411a16e6c03a0a7d26293db3a968be14f766fb5d124e8c9ee7"
+    },
+    {
+      "template": 9,
+      "path": "previews/video-09.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 16465,
+      "sha256": "c603df503e31f4099ba7df85e2658958f9d5e317ccc4cfcf7ae2f818017cc5fa"
+    },
+    {
+      "template": 10,
+      "path": "previews/video-10.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 17314,
+      "sha256": "f0d3dec8d93db390a0929b8e0aa6e75654790c7fb8e2525510c1a3c243be4963"
+    },
+    {
+      "template": 11,
+      "path": "previews/video-11.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 19685,
+      "sha256": "37bd74e01385f06adcd9cb4a1cdab396cec543817487e1b22535ea7493dc9f76"
+    },
+    {
+      "template": 12,
+      "path": "previews/video-12.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 20615,
+      "sha256": "15f39da61514bbc1adf5210b6bb516b5ecf6f3278c6bd010845a4a439187f985"
+    },
+    {
+      "template": 13,
+      "path": "previews/video-13.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 15166,
+      "sha256": "e89fed11d97fb73ffd299492de5558e43b82023607eff300ba22feadc4d93b5d"
+    },
+    {
+      "template": 14,
+      "path": "previews/video-14.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 20579,
+      "sha256": "23a365cc6ab67e15aeb0ca0a95abdb6d042f04c44403a78a3ff9d8d2d7d1a9c6"
+    },
+    {
+      "template": 15,
+      "path": "previews/video-15.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 16522,
+      "sha256": "0b7a99065f7e86f5fb928801e9fea254637848b3061fe59015d99cc808dcd928"
+    },
+    {
+      "template": 16,
+      "path": "previews/video-16.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 20600,
+      "sha256": "f7c415bdf0e3ad8f5568fdb2adf45ed4beb6697a3a46f2c8e1b7a3f13a8d1b47"
+    },
+    {
+      "template": 17,
+      "path": "previews/video-17.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 14854,
+      "sha256": "4adf2f2aae9d8c77a74661e6adcd8d16fc5d91c0991fba4396c026e9a17fab0a"
+    },
+    {
+      "template": 18,
+      "path": "previews/video-18.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 20400,
+      "sha256": "348666e79f25c2b10a625c456bd48f72a61e947085e81cbca6952577e629f553"
+    },
+    {
+      "template": 19,
+      "path": "previews/video-19.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 17928,
+      "sha256": "cf138e9744d5bb98fff92f86e81be23ec12aa661ccfdb4f9b4143056e21e6217"
+    },
+    {
+      "template": 20,
+      "path": "previews/video-20.jpg",
+      "width": 360,
+      "height": 640,
+      "sizeBytes": 22086,
+      "sha256": "6ef2082662d91798f4e97a5652e27a22b40b3ecde80ce652b86adbc2421f8302"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+@font-face{font-family:StudioSans;src:url('../assets/fonts/inter-latin-500-normal.woff2') format('woff2');font-weight:500;font-display:block}
+@font-face{font-family:StudioSans;src:url('../assets/fonts/inter-latin-600-normal.woff2') format('woff2');font-weight:600;font-display:block}
+@font-face{font-family:StudioSans;src:url('../assets/fonts/inter-latin-700-normal.woff2') format('woff2');font-weight:700;font-display:block}
+@font-face{font-family:StudioSans;src:url('../assets/fonts/inter-latin-800-normal.woff2') format('woff2');font-weight:800;font-display:block}
+@font-face{font-family:StudioSans;src:url('../assets/fonts/inter-latin-900-normal.woff2') format('woff2');font-weight:900;font-display:block}
+
+@font-face{font-family:StudioSerif;src:url('../assets/fonts/instrument-serif-latin-400-italic.woff2') format('woff2');font-style:italic;font-display:block}
+@font-face{font-family:StudioMono;src:url('../assets/fonts/jetbrains-mono-latin-500-normal.woff2') format('woff2');font-display:block}

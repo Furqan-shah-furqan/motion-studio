@@ -1,0 +1,933 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": " In the last few months, I shipped four real products, not mockups, and we build things the smarter way."
+    },
+    {
+      "start": 6.34,
+      "end": 11.98,
+      "text": " First, ClipFlow. It scans long videos, finds the viral moments, adds animated captions,"
+    },
+    {
+      "start": 12.46,
+      "end": 15.78,
+      "text": " and posts straight to Instagram and YouTube, then Wireframer."
+    },
+    {
+      "start": 16.48,
+      "end": 21.92,
+      "text": " Give it one prompt or one reference image, and it designs a full screen for phone, tablet or desktop,"
+    },
+    {
+      "start": 22.46,
+      "end": 26.34,
+      "text": " clean HTML, CSS and JavaScript, FoodSnap."
+    },
+    {
+      "start": 26.34,
+      "end": 30.34,
+      "text": " Point your camera at any meal, and AI gives you the calories instantly."
+    },
+    {
+      "start": 30.88,
+      "end": 35.48,
+      "text": " Diary, progress tracking and subscriptions are built in, and the AR menu viewer."
+    },
+    {
+      "start": 36.26,
+      "end": 40.9,
+      "text": " Customers point their phone at the table, and the dish appears in 3D, right in front of them."
+    },
+    {
+      "start": 41.46,
+      "end": 46.04,
+      "text": " Flutter, Next.js, Node, and AI. I build fast, and I ship."
+    },
+    {
+      "start": 46.54,
+      "end": 48.46,
+      "text": " Need a product built? Message me."
+    },
+    {
+      "start": 48.78,
+      "end": 53.2,
+      "text": " And if you want to know how I made these motion graphics, comment full guide. Follow Thynk."
+    }
+  ],
+  "words": [
+    {
+      "text": "In",
+      "start": 0.0,
+      "end": 0.34,
+      "confidence": 0.5129043459892273
+    },
+    {
+      "text": "the",
+      "start": 0.34,
+      "end": 0.54,
+      "confidence": 0.9970855116844177
+    },
+    {
+      "text": "last",
+      "start": 0.54,
+      "end": 0.74,
+      "confidence": 0.9957636594772339
+    },
+    {
+      "text": "few",
+      "start": 0.74,
+      "end": 0.9,
+      "confidence": 0.984826922416687
+    },
+    {
+      "text": "months,",
+      "start": 0.9,
+      "end": 1.16,
+      "confidence": 0.995408833026886
+    },
+    {
+      "text": "I",
+      "start": 1.32,
+      "end": 1.42,
+      "confidence": 0.9936875700950623
+    },
+    {
+      "text": "shipped",
+      "start": 1.42,
+      "end": 1.62,
+      "confidence": 0.9320647716522217
+    },
+    {
+      "text": "four",
+      "start": 1.62,
+      "end": 1.98,
+      "confidence": 0.7879974842071533
+    },
+    {
+      "text": "real",
+      "start": 1.98,
+      "end": 2.2,
+      "confidence": 0.899421751499176
+    },
+    {
+      "text": "products,",
+      "start": 2.2,
+      "end": 2.78,
+      "confidence": 0.9973949193954468
+    },
+    {
+      "text": "not",
+      "start": 3.32,
+      "end": 3.5,
+      "confidence": 0.9846092462539673
+    },
+    {
+      "text": "mockups,",
+      "start": 3.5,
+      "end": 4.04,
+      "confidence": 0.7024132013320923
+    },
+    {
+      "text": "and",
+      "start": 4.24,
+      "end": 4.44,
+      "confidence": 0.9923412799835205
+    },
+    {
+      "text": "we",
+      "start": 4.44,
+      "end": 4.66,
+      "confidence": 0.9976769089698792
+    },
+    {
+      "text": "build",
+      "start": 4.66,
+      "end": 4.8,
+      "confidence": 0.8771961331367493
+    },
+    {
+      "text": "things",
+      "start": 4.8,
+      "end": 5.06,
+      "confidence": 0.9984601736068726
+    },
+    {
+      "text": "the",
+      "start": 5.06,
+      "end": 5.3,
+      "confidence": 0.9929370284080505
+    },
+    {
+      "text": "smarter",
+      "start": 5.3,
+      "end": 5.48,
+      "confidence": 0.997191846370697
+    },
+    {
+      "text": "way.",
+      "start": 5.48,
+      "end": 6.0,
+      "confidence": 0.9991138577461243
+    },
+    {
+      "text": "First,",
+      "start": 6.34,
+      "end": 6.68,
+      "confidence": 0.9792020916938782
+    },
+    {
+      "text": "ClipFlow.",
+      "start": 6.98,
+      "end": 7.36,
+      "confidence": 0.7411345740159353
+    },
+    {
+      "text": "It",
+      "start": 7.94,
+      "end": 7.94,
+      "confidence": 0.9893566966056824
+    },
+    {
+      "text": "scans",
+      "start": 7.94,
+      "end": 8.22,
+      "confidence": 0.9975805282592773
+    },
+    {
+      "text": "long",
+      "start": 8.22,
+      "end": 8.52,
+      "confidence": 0.9950887560844421
+    },
+    {
+      "text": "videos,",
+      "start": 8.52,
+      "end": 9.0,
+      "confidence": 0.9966289401054382
+    },
+    {
+      "text": "finds",
+      "start": 9.28,
+      "end": 9.48,
+      "confidence": 0.9921884536743164
+    },
+    {
+      "text": "the",
+      "start": 9.48,
+      "end": 9.7,
+      "confidence": 0.997421383857727
+    },
+    {
+      "text": "viral",
+      "start": 9.7,
+      "end": 9.92,
+      "confidence": 0.9970746040344238
+    },
+    {
+      "text": "moments,",
+      "start": 9.92,
+      "end": 10.34,
+      "confidence": 0.9967124462127686
+    },
+    {
+      "text": "adds",
+      "start": 10.78,
+      "end": 11.08,
+      "confidence": 0.987458348274231
+    },
+    {
+      "text": "animated",
+      "start": 11.08,
+      "end": 11.54,
+      "confidence": 0.9987672567367554
+    },
+    {
+      "text": "captions,",
+      "start": 11.54,
+      "end": 11.98,
+      "confidence": 0.9981911778450012
+    },
+    {
+      "text": "and",
+      "start": 12.46,
+      "end": 12.6,
+      "confidence": 0.9976128339767456
+    },
+    {
+      "text": "posts",
+      "start": 12.6,
+      "end": 12.84,
+      "confidence": 0.9899412989616394
+    },
+    {
+      "text": "straight",
+      "start": 12.84,
+      "end": 13.16,
+      "confidence": 0.9964109063148499
+    },
+    {
+      "text": "to",
+      "start": 13.16,
+      "end": 13.38,
+      "confidence": 0.9981077909469604
+    },
+    {
+      "text": "Instagram",
+      "start": 13.38,
+      "end": 13.76,
+      "confidence": 0.9961663484573364
+    },
+    {
+      "text": "and",
+      "start": 13.76,
+      "end": 14.04,
+      "confidence": 0.9950189590454102
+    },
+    {
+      "text": "YouTube,",
+      "start": 14.04,
+      "end": 14.44,
+      "confidence": 0.9771319031715393
+    },
+    {
+      "text": "then",
+      "start": 14.96,
+      "end": 15.16,
+      "confidence": 0.9834893941879272
+    },
+    {
+      "text": "Wireframer.",
+      "start": 15.16,
+      "end": 15.78,
+      "confidence": 0.6314421792825063
+    },
+    {
+      "text": "Give",
+      "start": 16.48,
+      "end": 16.64,
+      "confidence": 0.988503634929657
+    },
+    {
+      "text": "it",
+      "start": 16.64,
+      "end": 16.82,
+      "confidence": 0.9988664388656616
+    },
+    {
+      "text": "one",
+      "start": 16.82,
+      "end": 17.06,
+      "confidence": 0.9872381687164307
+    },
+    {
+      "text": "prompt",
+      "start": 17.06,
+      "end": 17.3,
+      "confidence": 0.9992721676826477
+    },
+    {
+      "text": "or",
+      "start": 17.3,
+      "end": 17.52,
+      "confidence": 0.7712001800537109
+    },
+    {
+      "text": "one",
+      "start": 17.52,
+      "end": 17.76,
+      "confidence": 0.9897778630256653
+    },
+    {
+      "text": "reference",
+      "start": 17.76,
+      "end": 18.02,
+      "confidence": 0.9975067973136902
+    },
+    {
+      "text": "image,",
+      "start": 18.02,
+      "end": 18.38,
+      "confidence": 0.9982283711433411
+    },
+    {
+      "text": "and",
+      "start": 18.68,
+      "end": 18.82,
+      "confidence": 0.9983686804771423
+    },
+    {
+      "text": "it",
+      "start": 18.82,
+      "end": 19.02,
+      "confidence": 0.9989008903503418
+    },
+    {
+      "text": "designs",
+      "start": 19.02,
+      "end": 19.24,
+      "confidence": 0.9918096661567688
+    },
+    {
+      "text": "a",
+      "start": 19.24,
+      "end": 19.46,
+      "confidence": 0.9953202605247498
+    },
+    {
+      "text": "full",
+      "start": 19.46,
+      "end": 19.62,
+      "confidence": 0.9991293549537659
+    },
+    {
+      "text": "screen",
+      "start": 19.62,
+      "end": 19.9,
+      "confidence": 0.9489901661872864
+    },
+    {
+      "text": "for",
+      "start": 19.9,
+      "end": 20.12,
+      "confidence": 0.9966132044792175
+    },
+    {
+      "text": "phone,",
+      "start": 20.12,
+      "end": 20.52,
+      "confidence": 0.9896344542503357
+    },
+    {
+      "text": "tablet",
+      "start": 20.86,
+      "end": 21.22,
+      "confidence": 0.9992087483406067
+    },
+    {
+      "text": "or",
+      "start": 21.22,
+      "end": 21.44,
+      "confidence": 0.46205562353134155
+    },
+    {
+      "text": "desktop,",
+      "start": 21.44,
+      "end": 21.92,
+      "confidence": 0.9960527420043945
+    },
+    {
+      "text": "clean",
+      "start": 22.46,
+      "end": 22.66,
+      "confidence": 0.9265854358673096
+    },
+    {
+      "text": "HTML,",
+      "start": 22.66,
+      "end": 23.18,
+      "confidence": 0.9829839468002319
+    },
+    {
+      "text": "CSS",
+      "start": 23.8,
+      "end": 24.16,
+      "confidence": 0.9887233972549438
+    },
+    {
+      "text": "and",
+      "start": 24.16,
+      "end": 24.48,
+      "confidence": 0.7440224885940552
+    },
+    {
+      "text": "JavaScript,",
+      "start": 24.48,
+      "end": 25.04,
+      "confidence": 0.9242009520530701
+    },
+    {
+      "text": "FoodSnap.",
+      "start": 25.7,
+      "end": 26.34,
+      "confidence": 0.6237993836402893
+    },
+    {
+      "text": "Point",
+      "start": 26.34,
+      "end": 26.78,
+      "confidence": 0.7858702540397644
+    },
+    {
+      "text": "your",
+      "start": 26.78,
+      "end": 26.94,
+      "confidence": 0.9890961050987244
+    },
+    {
+      "text": "camera",
+      "start": 26.94,
+      "end": 27.26,
+      "confidence": 0.9969419836997986
+    },
+    {
+      "text": "at",
+      "start": 27.26,
+      "end": 27.48,
+      "confidence": 0.986130952835083
+    },
+    {
+      "text": "any",
+      "start": 27.48,
+      "end": 27.68,
+      "confidence": 0.998230516910553
+    },
+    {
+      "text": "meal,",
+      "start": 27.68,
+      "end": 27.96,
+      "confidence": 0.9961032867431641
+    },
+    {
+      "text": "and",
+      "start": 28.42,
+      "end": 28.54,
+      "confidence": 0.9819236397743225
+    },
+    {
+      "text": "AI",
+      "start": 28.54,
+      "end": 28.76,
+      "confidence": 0.9242377281188965
+    },
+    {
+      "text": "gives",
+      "start": 28.76,
+      "end": 28.96,
+      "confidence": 0.9886313080787659
+    },
+    {
+      "text": "you",
+      "start": 28.96,
+      "end": 29.18,
+      "confidence": 0.9961315393447876
+    },
+    {
+      "text": "the",
+      "start": 29.18,
+      "end": 29.36,
+      "confidence": 0.9735656976699829
+    },
+    {
+      "text": "calories",
+      "start": 29.36,
+      "end": 29.62,
+      "confidence": 0.9980864524841309
+    },
+    {
+      "text": "instantly.",
+      "start": 29.62,
+      "end": 30.34,
+      "confidence": 0.9946042895317078
+    },
+    {
+      "text": "Diary,",
+      "start": 30.88,
+      "end": 31.4,
+      "confidence": 0.9777978360652924
+    },
+    {
+      "text": "progress",
+      "start": 31.72,
+      "end": 32.0,
+      "confidence": 0.8690704703330994
+    },
+    {
+      "text": "tracking",
+      "start": 32.0,
+      "end": 32.3,
+      "confidence": 0.9885075092315674
+    },
+    {
+      "text": "and",
+      "start": 32.3,
+      "end": 32.58,
+      "confidence": 0.4078423082828522
+    },
+    {
+      "text": "subscriptions",
+      "start": 32.58,
+      "end": 33.14,
+      "confidence": 0.9935455918312073
+    },
+    {
+      "text": "are",
+      "start": 33.14,
+      "end": 33.42,
+      "confidence": 0.9943482279777527
+    },
+    {
+      "text": "built",
+      "start": 33.42,
+      "end": 33.64,
+      "confidence": 0.9959611296653748
+    },
+    {
+      "text": "in,",
+      "start": 33.64,
+      "end": 33.94,
+      "confidence": 0.6119338274002075
+    },
+    {
+      "text": "and",
+      "start": 34.22,
+      "end": 34.38,
+      "confidence": 0.987794041633606
+    },
+    {
+      "text": "the",
+      "start": 34.38,
+      "end": 34.6,
+      "confidence": 0.989062488079071
+    },
+    {
+      "text": "AR",
+      "start": 34.6,
+      "end": 34.82,
+      "confidence": 0.9411652684211731
+    },
+    {
+      "text": "menu",
+      "start": 34.82,
+      "end": 35.12,
+      "confidence": 0.8133532404899597
+    },
+    {
+      "text": "viewer.",
+      "start": 35.12,
+      "end": 35.48,
+      "confidence": 0.9733267426490784
+    },
+    {
+      "text": "Customers",
+      "start": 36.26,
+      "end": 36.68,
+      "confidence": 0.9918831586837769
+    },
+    {
+      "text": "point",
+      "start": 36.68,
+      "end": 36.88,
+      "confidence": 0.9963459372520447
+    },
+    {
+      "text": "their",
+      "start": 36.88,
+      "end": 37.1,
+      "confidence": 0.9940875768661499
+    },
+    {
+      "text": "phone",
+      "start": 37.1,
+      "end": 37.36,
+      "confidence": 0.9941562414169312
+    },
+    {
+      "text": "at",
+      "start": 37.36,
+      "end": 37.54,
+      "confidence": 0.996528685092926
+    },
+    {
+      "text": "the",
+      "start": 37.54,
+      "end": 37.72,
+      "confidence": 0.9934737086296082
+    },
+    {
+      "text": "table,",
+      "start": 37.72,
+      "end": 37.98,
+      "confidence": 0.9978297352790833
+    },
+    {
+      "text": "and",
+      "start": 38.4,
+      "end": 38.5,
+      "confidence": 0.9917309880256653
+    },
+    {
+      "text": "the",
+      "start": 38.5,
+      "end": 38.66,
+      "confidence": 0.9819900989532471
+    },
+    {
+      "text": "dish",
+      "start": 38.66,
+      "end": 38.78,
+      "confidence": 0.9835719466209412
+    },
+    {
+      "text": "appears",
+      "start": 38.78,
+      "end": 39.16,
+      "confidence": 0.9960907101631165
+    },
+    {
+      "text": "in",
+      "start": 39.16,
+      "end": 39.46,
+      "confidence": 0.9944041967391968
+    },
+    {
+      "text": "3D,",
+      "start": 39.46,
+      "end": 39.88,
+      "confidence": 0.9592272341251373
+    },
+    {
+      "text": "right",
+      "start": 40.0,
+      "end": 40.2,
+      "confidence": 0.9978392720222473
+    },
+    {
+      "text": "in",
+      "start": 40.2,
+      "end": 40.44,
+      "confidence": 0.998063862323761
+    },
+    {
+      "text": "front",
+      "start": 40.44,
+      "end": 40.52,
+      "confidence": 0.9991888403892517
+    },
+    {
+      "text": "of",
+      "start": 40.52,
+      "end": 40.7,
+      "confidence": 0.9957232475280762
+    },
+    {
+      "text": "them.",
+      "start": 40.7,
+      "end": 40.9,
+      "confidence": 0.999330997467041
+    },
+    {
+      "text": "Flutter,",
+      "start": 41.46,
+      "end": 41.82,
+      "confidence": 0.9909157752990723
+    },
+    {
+      "text": "Next",
+      "start": 42.08,
+      "end": 42.34,
+      "confidence": 0.9369391202926636
+    },
+    {
+      "text": ".js,",
+      "start": 42.34,
+      "end": 42.74,
+      "confidence": 0.9382927417755127
+    },
+    {
+      "text": "Node,",
+      "start": 43.1,
+      "end": 43.32,
+      "confidence": 0.9517815709114075
+    },
+    {
+      "text": "and",
+      "start": 43.56,
+      "end": 43.82,
+      "confidence": 0.9964649677276611
+    },
+    {
+      "text": "AI.",
+      "start": 43.82,
+      "end": 44.1,
+      "confidence": 0.992980420589447
+    },
+    {
+      "text": "I",
+      "start": 44.56,
+      "end": 44.78,
+      "confidence": 0.9882950782775879
+    },
+    {
+      "text": "build",
+      "start": 44.78,
+      "end": 45.0,
+      "confidence": 0.9736704230308533
+    },
+    {
+      "text": "fast,",
+      "start": 45.0,
+      "end": 45.42,
+      "confidence": 0.9969912767410278
+    },
+    {
+      "text": "and",
+      "start": 45.54,
+      "end": 45.68,
+      "confidence": 0.9985199570655823
+    },
+    {
+      "text": "I",
+      "start": 45.68,
+      "end": 45.86,
+      "confidence": 0.9970145225524902
+    },
+    {
+      "text": "ship.",
+      "start": 45.86,
+      "end": 46.04,
+      "confidence": 0.9903485774993896
+    },
+    {
+      "text": "Need",
+      "start": 46.54,
+      "end": 46.7,
+      "confidence": 0.997783362865448
+    },
+    {
+      "text": "a",
+      "start": 46.7,
+      "end": 46.92,
+      "confidence": 0.9967095851898193
+    },
+    {
+      "text": "product",
+      "start": 46.92,
+      "end": 47.12,
+      "confidence": 0.9980745315551758
+    },
+    {
+      "text": "built?",
+      "start": 47.12,
+      "end": 47.4,
+      "confidence": 0.9735653400421143
+    },
+    {
+      "text": "Message",
+      "start": 47.8,
+      "end": 48.12,
+      "confidence": 0.9886711835861206
+    },
+    {
+      "text": "me.",
+      "start": 48.12,
+      "end": 48.46,
+      "confidence": 0.99540776014328
+    },
+    {
+      "text": "And",
+      "start": 48.78,
+      "end": 48.92,
+      "confidence": 0.9648441672325134
+    },
+    {
+      "text": "if",
+      "start": 48.92,
+      "end": 49.04,
+      "confidence": 0.9631001353263855
+    },
+    {
+      "text": "you",
+      "start": 49.04,
+      "end": 49.18,
+      "confidence": 0.9982874989509583
+    },
+    {
+      "text": "want",
+      "start": 49.18,
+      "end": 49.28,
+      "confidence": 0.8263486623764038
+    },
+    {
+      "text": "to",
+      "start": 49.28,
+      "end": 49.4,
+      "confidence": 0.9971281886100769
+    },
+    {
+      "text": "know",
+      "start": 49.4,
+      "end": 49.52,
+      "confidence": 0.997580885887146
+    },
+    {
+      "text": "how",
+      "start": 49.52,
+      "end": 49.66,
+      "confidence": 0.9971555471420288
+    },
+    {
+      "text": "I",
+      "start": 49.66,
+      "end": 49.86,
+      "confidence": 0.9971369504928589
+    },
+    {
+      "text": "made",
+      "start": 49.86,
+      "end": 49.96,
+      "confidence": 0.9964293837547302
+    },
+    {
+      "text": "these",
+      "start": 49.96,
+      "end": 50.2,
+      "confidence": 0.996510922908783
+    },
+    {
+      "text": "motion",
+      "start": 50.2,
+      "end": 50.48,
+      "confidence": 0.9615465402603149
+    },
+    {
+      "text": "graphics,",
+      "start": 50.48,
+      "end": 50.92,
+      "confidence": 0.9986887574195862
+    },
+    {
+      "text": "comment",
+      "start": 51.36,
+      "end": 51.56,
+      "confidence": 0.9778010249137878
+    },
+    {
+      "text": "full",
+      "start": 51.56,
+      "end": 51.84,
+      "confidence": 0.35187581181526184
+    },
+    {
+      "text": "guide.",
+      "start": 51.84,
+      "end": 52.24,
+      "confidence": 0.7431831955909729
+    },
+    {
+      "text": "Follow",
+      "start": 52.66,
+      "end": 52.9,
+      "confidence": 0.9908820390701294
+    },
+    {
+      "text": "Thynk.",
+      "start": 52.9,
+      "end": 53.2,
+      "confidence": 0.2289906608251234
+    }
+  ],
+  "model": "faster-whisper medium int8",
+  "timing": "Whisper word alignment, not independent forced alignment"
+}

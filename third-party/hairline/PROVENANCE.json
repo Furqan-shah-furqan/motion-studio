@@ -1,0 +1,242 @@
+{
+  "repository": "lucasmarkes/hairline",
+  "commit": "37d2e78dcb333ab30c3338e28ed4a690364ea014",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha": "dec068515ec56cbd7f56555cebc9d64818072e64"
+    },
+    {
+      "path": "packages/hairline/package.json",
+      "sha": "b52a133c70726bdde225b1ebaccafb229f3f69cb"
+    },
+    {
+      "path": "packages/hairline/src/core/iso.ts",
+      "sha": "02eea2ba99f67c546b6d7a03d55c1bb877d0bf79"
+    },
+    {
+      "path": "packages/hairline/src/core/motion.ts",
+      "sha": "14866bea46e01ee45fd5258c6b12fc8d9c5c11f9"
+    },
+    {
+      "path": "packages/hairline/src/core/stage.ts",
+      "sha": "b576e0e91e16aa2141046d8ce98509f4890ff9ee"
+    },
+    {
+      "path": "packages/hairline/src/core/styles.ts",
+      "sha": "c1639a2270541bdc9b1d378b05d9ebda7fac37c9"
+    },
+    {
+      "path": "packages/hairline/src/figures/basket.ts",
+      "sha": "feb2f4e20c3d09604d0b3f9495e333d530dd15a0"
+    },
+    {
+      "path": "packages/hairline/src/figures/branches.ts",
+      "sha": "b7bceb4b22ee9fc616cb5d3f3f76e70819519209"
+    },
+    {
+      "path": "packages/hairline/src/figures/cabinet.ts",
+      "sha": "f44c99ba39787d9732454cc1b0826655980929b0"
+    },
+    {
+      "path": "packages/hairline/src/figures/dish.ts",
+      "sha": "573c4c4f64b82cfa7ad28418666e3d1ab8f6b879"
+    },
+    {
+      "path": "packages/hairline/src/figures/drawer.ts",
+      "sha": "0275b95ab83546b80c53c5ccd9a3c80a4bac9c1d"
+    },
+    {
+      "path": "packages/hairline/src/figures/elevator.ts",
+      "sha": "feed24a316080c7c11d65e032624e3ad3523d675"
+    },
+    {
+      "path": "packages/hairline/src/figures/exploded.ts",
+      "sha": "9273d40f1b449c7e3e88b62ec4514897cabaf991"
+    },
+    {
+      "path": "packages/hairline/src/figures/format.ts",
+      "sha": "32efb37e4ab95d8b5c8c922dd3d65a6444ccfd16"
+    },
+    {
+      "path": "packages/hairline/src/figures/hub.ts",
+      "sha": "aec89ac11669316bd7494f79bebc5ebc43e387ec"
+    },
+    {
+      "path": "packages/hairline/src/figures/keyboard.ts",
+      "sha": "f106c9d7ea9b6ffa4a9797369d0ae6529df8ec01"
+    },
+    {
+      "path": "packages/hairline/src/figures/laptop.ts",
+      "sha": "ba0d4eabc581075de709d861208e94c250786577"
+    },
+    {
+      "path": "packages/hairline/src/figures/lockers.ts",
+      "sha": "15b6f2fdcaf52178d2a5ae517e0ff374d883b6d2"
+    },
+    {
+      "path": "packages/hairline/src/figures/loupe.ts",
+      "sha": "bd6c133dae777261515a423195fd0fc8b2dc4a57"
+    },
+    {
+      "path": "packages/hairline/src/figures/padlock.ts",
+      "sha": "383b77eebb7b8d2fd28f151375fc75a3c0009bf3"
+    },
+    {
+      "path": "packages/hairline/src/figures/patch.ts",
+      "sha": "8ea339d5480dadac964b36717accdaaf2a0b43b9"
+    },
+    {
+      "path": "packages/hairline/src/figures/phone.ts",
+      "sha": "2b73fc7d06f75527e4d854caa9b858118fa9fca2"
+    },
+    {
+      "path": "packages/hairline/src/figures/phosphor.ts",
+      "sha": "1ba35bbfb44e2d068a2613dd63859c3061478fe2"
+    },
+    {
+      "path": "packages/hairline/src/figures/plot.ts",
+      "sha": "8cd293ea3ef78ab59e212d93dc4f047d3cb31b3b"
+    },
+    {
+      "path": "packages/hairline/src/figures/plug.ts",
+      "sha": "cc66c3a3e1919d8167e8342061c3db412451926a"
+    },
+    {
+      "path": "packages/hairline/src/figures/query.ts",
+      "sha": "33b053aac8b967cd458b8068be6e2baf8b635b96"
+    },
+    {
+      "path": "packages/hairline/src/figures/rail.ts",
+      "sha": "963bcfbb339fb46fd5aeb4ce03b93793e65428fe"
+    },
+    {
+      "path": "packages/hairline/src/figures/rebuild.ts",
+      "sha": "16c20af9b75bd3433f7780c19df7ab9aeff4b55b"
+    },
+    {
+      "path": "packages/hairline/src/figures/relay.ts",
+      "sha": "df420526970a208f7d5271ae5cbae7ff92f8ca91"
+    },
+    {
+      "path": "packages/hairline/src/figures/riffle-geometry.ts",
+      "sha": "a543420446f882abb3ac300e8ef62ad60fbec656"
+    },
+    {
+      "path": "packages/hairline/src/figures/riffle.ts",
+      "sha": "5e3b7dbdf734496630b1a5919bb4584b859f2f89"
+    },
+    {
+      "path": "packages/hairline/src/figures/router.ts",
+      "sha": "bf572e16a64e510ad816425a2659e336444ec85e"
+    },
+    {
+      "path": "packages/hairline/src/figures/settle.ts",
+      "sha": "07dad09d4a64c8e036fe679fe3d155809dc2d88d"
+    },
+    {
+      "path": "packages/hairline/src/figures/sieve.ts",
+      "sha": "6673b45f125811407b9fd114e14be7d4e4696329"
+    },
+    {
+      "path": "packages/hairline/src/figures/slow.ts",
+      "sha": "a1e704e91daaa133fcce219285c11a57325523a4"
+    },
+    {
+      "path": "packages/hairline/src/figures/stack.ts",
+      "sha": "2d73b2f8006344540507e79bf683d96a1cd427fc"
+    },
+    {
+      "path": "packages/hairline/src/figures/terminal.ts",
+      "sha": "6e5e0948810367dd072a9cd197fda80ef54ec849"
+    },
+    {
+      "path": "packages/hairline/src/figures/terrain.ts",
+      "sha": "ff7c7ead1165f85b0719789998e96c94a2b66e74"
+    },
+    {
+      "path": "packages/hairline/src/figures/turntable-geometry.ts",
+      "sha": "a568a1f1213efe5761835d815de277887623a240"
+    },
+    {
+      "path": "packages/hairline/src/figures/turntable.ts",
+      "sha": "2f4f01a9b9334b1d898a5068791fa78403571604"
+    },
+    {
+      "path": "packages/hairline/src/figures/vault.ts",
+      "sha": "ee63adb99dc632ff90e99b3b6fad0c345aa9d9b6"
+    },
+    {
+      "path": "packages/hairline/src/index.ts",
+      "sha": "f34826b35f34414cdff9368ec9767922c911b2ca"
+    },
+    {
+      "path": "packages/hairline/src/intensity.ts",
+      "sha": "87b2d8e7fa9ac7d7ab67ab08269c0ae240922366"
+    },
+    {
+      "path": "packages/hairline/src/mount.ts",
+      "sha": "ba21d8344dcf50e7b8f39390f93b8e129871aae3"
+    },
+    {
+      "path": "packages/hairline/src/slab.ts",
+      "sha": "2aebf0506cf70f502ea21089ec9cb3f4c0c16175"
+    },
+    {
+      "path": "skills/hairline-adopt/SKILL.md",
+      "sha": "54d2e891c62d8a2dcaa0110e36e1fbe75bd98914"
+    },
+    {
+      "path": "skills/hairline-create/SKILL.md",
+      "sha": "7145c4e3033b3fb6dec519fed480d2e894af0036"
+    },
+    {
+      "path": "skills/hairline-create/bench.html",
+      "sha": "d650374c57d05b5f7b5f0132a5c684c5c020661c"
+    },
+    {
+      "path": "skills/hairline-create/build.mjs",
+      "sha": "78eae09f44ec5ba82c3a7b5b310e0a4b27e11de6"
+    },
+    {
+      "path": "skills/hairline-create/concepts.md",
+      "sha": "4633225ad73ca3ef95372fe8cdfc62fdd0395918"
+    },
+    {
+      "path": "skills/hairline-create/examples/riffle.js",
+      "sha": "ba6ff5ac5c2a00c76d4387837c7a1a8e7846d14a"
+    },
+    {
+      "path": "skills/hairline-create/examples/terrain.js",
+      "sha": "3fdcd5c821dfd2c79eec58e2d6fc323071150ade"
+    },
+    {
+      "path": "skills/hairline-create/kernel.js",
+      "sha": "336d4b6f153e04da3428fa8f6f189c76e81f68d7"
+    },
+    {
+      "path": "skills/hairline-create/look.md",
+      "sha": "dd82dd3a6a6db3de918babe9d1e860b6c9203064"
+    },
+    {
+      "path": "skills/hairline-create/look.mjs",
+      "sha": "942b41ee5a176e9a4bbc3b8a43805a07f936abaf"
+    },
+    {
+      "path": "skills/hairline-create/read.mjs",
+      "sha": "983e249e0a73f6e30d5a8c1e6779e3233a19c272"
+    },
+    {
+      "path": "skills/hairline-create/rules.md",
+      "sha": "32e6eaa3fc1b7d7266799ab9b62ac240570f0076"
+    },
+    {
+      "path": "skills/hairline-create/source.md",
+      "sha": "cdcb3085f4d16da4dbb4a1e3c283a3738196fc57"
+    },
+    {
+      "path": "skills/hairline-create/validate.mjs",
+      "sha": "48b27db5eaf3b390545a8e4aca5d746d490900ac"
+    }
+  ]
+}

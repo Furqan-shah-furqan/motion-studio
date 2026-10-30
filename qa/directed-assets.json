@@ -1,0 +1,46 @@
+{
+  "applied": {
+    "sourceMatches": true,
+    "dataImage": true,
+    "fileCount": 1,
+    "selected": "thynk-directed-01"
+  },
+  "created": {
+    "id": "thynk-custom-3b1ca033-4f64-44bf-9003-a0272916429d",
+    "catalog": 21,
+    "custom": 1,
+    "choices": 21,
+    "files": 1
+  },
+  "reloaded": {
+    "id": "thynk-custom-3b1ca033-4f64-44bf-9003-a0272916429d",
+    "count": 21,
+    "files": 1,
+    "applied": true,
+    "choices": 21
+  },
+  "product": {
+    "resolves": true,
+    "dataImage": true
+  },
+  "logo": {
+    "resolves": true,
+    "dataImage": true
+  },
+  "sfx": {
+    "duration": 0.28197278911564627,
+    "peak": 0.8999999761581421,
+    "firstAudibleMs": 1.99546485260771,
+    "rejectsSilent": true,
+    "originalNarration": true
+  },
+  "switchBack": {
+    "id": "thynk-custom-3b1ca033-4f64-44bf-9003-a0272916429d",
+    "files": 4,
+    "clip": true,
+    "meal": true,
+    "logo": true
+  },
+  "errors": [],
+  "passed": true
+}

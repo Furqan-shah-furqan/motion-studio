@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,interactive-widget=resizes-content"><title>Motion Studio V3 — Thynk Edition</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&family=DM+Sans:wght@400;500;600&family=Sora:wght@400;500;600&family=Outfit:wght@400;500;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Syne:wght@600;800&display=swap">
+<link rel="stylesheet" href="styles/studio.css">
+<link rel="stylesheet" href="styles/workspace.css">
+<link rel="stylesheet" href="styles/production.css">
+<link rel="stylesheet" href="styles/directed.css">
+<link rel="stylesheet" href="styles/reference-library.css">
+</head><body data-view="preview">
+<div class="shell">
+  <header class="shead">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" width="16" height="16"><path d="M8 5v14l11-7z" fill="currentColor"/></svg></span>
+      <div class="brand-txt"><div class="brand-name">Motion Studio</div><div class="brand-sub" id="save-label">Local project</div></div>
+    </div>
+    <div class="view-switch" role="group" aria-label="Workspace view">
+      <button class="vs on" id="vw-preview" type="button" aria-pressed="true">Preview</button>
+      <button class="vs" id="vw-edit" type="button" aria-pressed="false">Edit</button>
+    </div>
+    <div class="hact">
+      <div class="dd" id="fmt-dd">
+        <button class="dd-trigger" type="button" aria-haspopup="listbox" aria-expanded="false" aria-label="Canvas format">
+          <span class="dd-label">Canvas</span>
+          <span class="dd-value" id="fmt-value">Original · 4:3</span>
+          <span class="dd-size" id="fmt-size">1440 × 1080</span>
+          <svg class="dd-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="dd-menu" id="fmt-menu" role="listbox" aria-label="Canvas format" hidden>
+          <div class="dd-opt" role="option" tabindex="0" aria-selected="true" data-v="original"><svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M4 12l5 5L20 7"/></svg><span>Original · 4:3</span><small>1440 × 1080</small></div>
+          <div class="dd-opt" role="option" tabindex="0" aria-selected="false" data-v="phone"><svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M4 12l5 5L20 7"/></svg><span>Phone · 9:16</span><small>1080 × 1920</small></div>
+          <div class="dd-opt" role="option" tabindex="0" aria-selected="false" data-v="square"><svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M4 12l5 5L20 7"/></svg><span>Instagram Post · Square</span><small>1080 × 1080</small></div>
+          <div class="dd-opt" role="option" tabindex="0" aria-selected="false" data-v="desktop"><svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M4 12l5 5L20 7"/></svg><span>Desktop · 16:9</span><small>1920 × 1080</small></div>
+          <div class="dd-opt" role="option" tabindex="0" aria-selected="false" data-v="tablet"><svg class="ck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M4 12l5 5L20 7"/></svg><span>Tablet · Portrait</span><small>1536 × 2048</small></div>
+        </div>
+      </div>
+      <div class="dd" id="proj-dd">
+        <button class="dd-trigger" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Project menu">
+          <span class="dd-value">Project</span>
+          <svg class="dd-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="dd-menu" id="proj-menu" hidden>
+          <button class="mi" type="button" data-proj="export">Export project</button>
+          <button class="mi" type="button" data-proj="import">Import project</button>
+          <button class="mi" type="button" data-proj="reset">Reset everything</button>
+        </div>
+      </div>
+      <button class="btn" id="recbtn" type="button"><span class="rec-dot" aria-hidden="true"></span><span class="rec-label">Record video</span></button>
+    </div>
+  </header>
+  <nav class="navbar-tools" id="navbar-tools" aria-label="Scene and playback controls"></nav>
+  <div class="workspace">
+    <nav class="rail" aria-label="Studio sections">
+      <button class="rail-btn rail-home" id="rail-home" type="button" title="Home" aria-label="Home"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg></button>
+      <button class="rail-btn" id="rail-preview" type="button" title="Preview" aria-label="Preview"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor" stroke="none"/></svg></button>
+      <button class="rail-btn" id="rail-assets" type="button" title="Assets" aria-label="Assets"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="M4.5 18l5-5 3.5 3.5L16.5 13l3 3"/></svg></button>
+      <button class="rail-btn" id="rail-project" type="button" title="Project" aria-label="Project"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 7a2 2 0 012-2h4l2 2h8a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg></button>
+    </nav>
+    <main class="pcol" aria-label="Preview">
+      <div class="ctxrow">
+        <button class="ctx-toggle" id="ctx-toggle" type="button" aria-expanded="false" aria-controls="ctx-detail">
+          <span class="ctx-k" id="nsec">Intro</span>
+          <span class="ctx-name" id="nname">Hero reveal</span>
+          <svg class="dd-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="ctx-detail" id="ctx-detail" hidden>
+          <div class="ctx-item"><span>Motion graphics</span><p id="nmot"></p></div>
+          <div class="ctx-item"><span>Caption animation</span><p id="ncap"></p></div>
+          <div class="ctx-item"><span>Transition</span><p id="ntr"></p></div>
+        </div>
+      </div>
+      <div class="well" id="well">
+        <div id="sw"><div class="stage" id="stage">
+          <div class="studio" id="studio">Your Studio</div>
+          <div class="card" id="card"></div>
+          <div class="nav" id="nav"></div>
+          <div class="ruler" id="ruler"><b id="head"></b></div>
+        </div></div>
+      </div>
+      <div class="transport"><div class="tisland">
+        <button class="tplay" id="play" type="button" aria-label="Play with sound"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg></button>
+        <button class="tbtn" id="restart" type="button" title="Restart" aria-label="Restart"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 12a9 9 0 109-9 9.7 9.7 0 00-6.7 2.8L3 8"/><path d="M3 3v5h5"/></svg></button>
+        <input id="scrub" type="range" min="0" max="44.33" step="0.01" value="0" aria-label="Timeline">
+        <span class="mono tcode" id="clock">0:00.0 / 0:44.3</span>
+        <select id="speed" aria-label="Speed"><option value="0.5">0.5x</option><option value="1" selected>1x</option><option value="2">2x</option></select>
+        <button class="tbtn" id="mute" type="button" aria-pressed="false" title="Mute" aria-label="Mute"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M11 5L6 9H3v6h3l5 4z" fill="currentColor" stroke="none"/><path d="M15.5 8.5a5 5 0 010 7M18.5 5.5a9 9 0 010 13"/></svg></button>
+        <button class="tbtn" id="fs" type="button" title="Fullscreen" aria-label="Fullscreen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+        <div class="dd" id="pb-dd">
+          <button class="tbtn dd-trigger" type="button" aria-haspopup="true" aria-expanded="false" title="Playback options" aria-label="Playback options"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 8h10M18 8h2M4 16h4M12 16h8"/><circle cx="16" cy="8" r="2.2"/><circle cx="10" cy="16" r="2.2"/></svg></button>
+          <div class="dd-menu up" hidden>
+            <label class="mi"><input type="checkbox" id="loopck" checked> Loop</label>
+            <label class="mi"><input type="checkbox" id="nochrome"> Hide frame</label>
+          </div>
+        </div>
+      </div></div>
+      <div class="sstrip">
+        <div id="scene-strip" role="listbox" aria-label="Scenes"></div>
+        <select id="scene-select" class="sstrip-select" aria-label="Current scene"></select>
+      </div>
+    </main>
+    <aside class="insp" aria-label="Editor">
+      <div class="insp-head">
+        <h2 id="insp-title">Scenes</h2>
+        <div class="tabgrid" id="tabs" role="tablist" aria-label="Editor sections"></div>
+        <select id="tab-select" aria-label="Editor section"></select>
+      </div>
+      <div class="insp-body" id="panes"></div>
+    </aside>
+  </div>
+</div>
+<div class="tbar" id="tbar">
+  <button class="tplay" id="play-m" type="button" aria-label="Play with sound"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg></button>
+  <input id="scrub-m" type="range" min="0" max="44.33" step="0.01" value="0" aria-label="Timeline">
+  <span class="mono tcode" id="clock-m">0:00.0</span>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+<input type="file" id="import-file" accept=".json,application/json" hidden>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><linearGradient id="rg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b58cff"/><stop offset="1" stop-color="#6a2fe0"/></linearGradient></defs></svg>
+
+<script src="src/core.js"></script>
+<script src="src/editor.js"></script>
+<script src="assets/lib/gsap.min.js"></script>
+<script src="timing/master.js"></script>
+<script src="src/production.js"></script>
+<script src="src/thynk.js"></script>
+<script src="src/thumbnails.js"></script>
+<script src="assets/lib/hairline-motion.js"></script>
+<script src="src/directed-assets.js"></script>
+<script src="src/directed-audio-data.js"></script>
+<script src="src/directed.js"></script>
+<script src="src/templates.js"></script>
+<script src="src/assets.js"></script>
+<script src="src/reference-library-data.js"></script>
+<script src="src/reference-library.js"></script>
+<script src="src/workspace.js"></script>
+<script src="src/boot.js"></script>
+</body></html>

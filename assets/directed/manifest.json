@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "palette": [
+    "#ffffff",
+    "#7c3aed"
+  ],
+  "provenance": "All images are derived only from the user-supplied Assets(1).zip. The unmodified files remain in assets/directed/supplied/. No pixels from 000.mp4 or thynk-v4.mp4 are used. Reference-only images guide authored UI; they are not rendered as UI screenshots.",
+  "assets": {
+    "clipflow": {
+      "path": "assets/directed/clipflow.png",
+      "source": "assets/directed/supplied/🎬 Premium Editing Assets Pack _ Video Editing Resources.jpg",
+      "sha256": "5e8ae0d7fde4c4cec4c854182760878d34a3dd5363265bdc70fbd024e8532155",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "wireframer": {
+      "path": "assets/directed/wireframer.png",
+      "source": "assets/directed/supplied/icons smm (1).jpg",
+      "sha256": "a4e9d764daf50d68efef6969c898596ad00894f5305fb0dca18d6f3884ecc856",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "foodsnap": {
+      "path": "assets/directed/foodsnap.png",
+      "source": "assets/directed/supplied/foodsnap_app_icon.png",
+      "sha256": "1b47cbe3bec3809dcf701014f3c8ff10e13c70b109d3746b509632054a2f5737",
+      "processing": [
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "foodsnap-wordmark": {
+      "path": "assets/directed/foodsnap-wordmark.png",
+      "source": "assets/directed/supplied/foodsnap_wordmark.png",
+      "sha256": "652fc65e37de8e61a201fa4eb71ad0e873cc9c34d9171c95de359b9534cd6818",
+      "processing": [
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "ar": {
+      "path": "assets/directed/ar.png",
+      "source": "assets/directed/supplied/meal2.jpg",
+      "sha256": "29d09532d0eb42d8b123e6fa3867012750f99b4871a01b5eddb5f99adc13036c",
+      "processing": [
+        "manually bounded supplied icon silhouette",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "instagram": {
+      "path": "assets/directed/instagram.png",
+      "source": "assets/directed/supplied/Instagram.jpg",
+      "sha256": "e043bfcdad0b962e7b21a45142195dd6843500600792a0ed17ffeea9941fc026",
+      "processing": [
+        "edge-connected dark background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "youtube": {
+      "path": "assets/directed/youtube.png",
+      "source": "assets/directed/supplied/YouTube.jpg",
+      "sha256": "a7d86d186e2d74becfd0137de704157043997aef662f317fe74ba6bf9b10cf74",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "html": {
+      "path": "assets/directed/html.png",
+      "source": "assets/directed/supplied/HTML.jpg",
+      "sha256": "504f7beaea5843a5bc1dcea6b173b1b83141abc40ecba76a0d62822660fa4520",
+      "processing": [
+        "manually bounded supplied icon silhouette",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "css": {
+      "path": "assets/directed/css.png",
+      "source": "assets/directed/supplied/Css.jpg",
+      "sha256": "a734a842999ffa548dabbc9522cadd20790ff173dcd1bf3465e2759daf6a2e5e",
+      "processing": [
+        "manually bounded supplied icon silhouette",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "js": {
+      "path": "assets/directed/js.png",
+      "source": "assets/directed/supplied/JavaScript.jpg",
+      "sha256": "8dca2a9ee1393dbbb9fa5b052edc837029828f9f4a2ab2f48347e9a9d9069407",
+      "processing": [
+        "manually bounded supplied icon silhouette",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "flutter": {
+      "path": "assets/directed/flutter.png",
+      "source": "assets/directed/supplied/Flutter 4_0.jpg",
+      "sha256": "437b18637fc3ee6e64c9dcb336b761877ca2d26f1e0d505975b80753a9740aa7",
+      "processing": [
+        "manually bounded supplied icon silhouette",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "next": {
+      "path": "assets/directed/next.png",
+      "source": "assets/directed/supplied/next.js.jpg",
+      "sha256": "aee79f2b359e76474651a5c7c2db7ca7858818015fddf26ecf79938ec01631f1",
+      "processing": [
+        "edge-connected dark background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "node": {
+      "path": "assets/directed/node.png",
+      "source": "assets/directed/supplied/Node.js.jpg",
+      "sha256": "e3a37da5e0bf59425089b01ead653389a694bf1c42b3accbd864918195de6737",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "ai": {
+      "path": "assets/directed/ai.png",
+      "source": "assets/directed/supplied/Ai.jpg",
+      "sha256": "e9cfb8237208f37b59d2245afde715540dd69579c5f4513e46729adfe4bb316c",
+      "processing": [
+        "edge-connected dark background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "message": {
+      "path": "assets/directed/message.png",
+      "source": "assets/directed/supplied/Message.jpg",
+      "sha256": "6a85452d7bed0093f732a5f96def10e63352891640dcb616d8bfb64e52ba692b",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "smarter": {
+      "path": "assets/directed/smarter.png",
+      "source": "assets/directed/supplied/icons smm.jpg",
+      "sha256": "6a72099808d3f796c3375073ada6520a30c2dd8da73135af88b19a843600a954",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "meal": {
+      "path": "assets/directed/meal.png",
+      "source": "assets/directed/supplied/3D meal.jpg",
+      "sha256": "4059a995e6cd37fff4e8fdf24d01bdf33dc6b050194c349348eb2bddc4681881",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "meal2": {
+      "path": "assets/directed/meal2.png",
+      "source": "assets/directed/supplied/meal2.jpg",
+      "sha256": "29d09532d0eb42d8b123e6fa3867012750f99b4871a01b5eddb5f99adc13036c",
+      "processing": [
+        "manually bounded supplied icon silhouette",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "meal3": {
+      "path": "assets/directed/meal3.png",
+      "source": "assets/directed/supplied/meal3.jpg",
+      "sha256": "d03ffb2200c74f08fe55dd6c3a133264d8c00057eaa3a012bbf85f1aa38d1fdd",
+      "processing": [
+        "edge-connected white background removal",
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": false
+    },
+    "table": {
+      "path": "assets/directed/table.png",
+      "source": "assets/directed/supplied/costumer points a phone at the table.jpg",
+      "sha256": "bcba3ec64ef442b23698a325ea4b610ed5bee227045ae8c9c6d120c5cb3e3bc0",
+      "processing": [
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": true
+    },
+    "calories-reference": {
+      "path": "assets/directed/calories-reference.png",
+      "source": "assets/directed/supplied/calories tracking.jpg",
+      "sha256": "5062dd3d90c75b3bd0a0649007960a6f089482961eb71db47167b05fa9c897c5",
+      "processing": [
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": true
+    },
+    "mockups-reference": {
+      "path": "assets/directed/mockups-reference.png",
+      "source": "assets/directed/supplied/mockups.jpg",
+      "sha256": "158310a61170b6befa88179f4d19d2f7a4031dfa44d752e4735e5aa32ba0e789",
+      "processing": [
+        "purple-white luminance map; alpha retained; maximum 640px"
+      ],
+      "referenceOnly": true
+    }
+  },
+  "notes": [
+    "Use the PNG variants to keep the complete film purple and white. Natural meal/brand variants are supplied separately if the user later requests their original colors.",
+    "For next.png the original NEXT.js glyph shape is preserved in violet.",
+    "SFX are prepared independently under assets/audio/directed-*; their unmodified MP3 sources remain in supplied/."
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "samples": [
+    {
+      "template": 1,
+      "time": 40,
+      "psnr": 41.074545
+    },
+    {
+      "template": 2,
+      "time": 40,
+      "psnr": 41.118552
+    },
+    {
+      "template": 3,
+      "time": 40,
+      "psnr": 41.064626
+    },
+    {
+      "template": 4,
+      "time": 40,
+      "psnr": 38.933107
+    },
+    {
+      "template": 5,
+      "time": 40,
+      "psnr": 41.474963
+    },
+    {
+      "template": 6,
+      "time": 40,
+      "psnr": 41.335624
+    },
+    {
+      "template": 7,
+      "time": 40,
+      "psnr": 41.155051
+    },
+    {
+      "template": 8,
+      "time": 40,
+      "psnr": 38.91523
+    },
+    {
+      "template": 9,
+      "time": 40,
+      "psnr": 41.089399
+    },
+    {
+      "template": 10,
+      "time": 40,
+      "psnr": 41.211993
+    },
+    {
+      "template": 11,
+      "time": 40,
+      "psnr": 41.351008
+    },
+    {
+      "template": 12,
+      "time": 40,
+      "psnr": 39.036057
+    },
+    {
+      "template": 13,
+      "time": 40,
+      "psnr": 41.113581
+    },
+    {
+      "template": 14,
+      "time": 40,
+      "psnr": 41.121264
+    },
+    {
+      "template": 15,
+      "time": 40,
+      "psnr": 41.155643
+    },
+    {
+      "template": 16,
+      "time": 40,
+      "psnr": 38.935114
+    },
+    {
+      "template": 17,
+      "time": 40,
+      "psnr": 41.29373
+    },
+    {
+      "template": 18,
+      "time": 40,
+      "psnr": 41.371937
+    },
+    {
+      "template": 19,
+      "time": 40,
+      "psnr": 41.209714
+    },
+    {
+      "template": 20,
+      "time": 40,
+      "psnr": 38.912976
+    }
+  ],
+  "minimum": 38.912976,
+  "passed": true
+}

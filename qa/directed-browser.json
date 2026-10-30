@@ -1,0 +1,3021 @@
+{
+  "catalog": {
+    "count": 20,
+    "ids": [
+      "thynk-directed-01",
+      "thynk-directed-02",
+      "thynk-directed-03",
+      "thynk-directed-04",
+      "thynk-directed-05",
+      "thynk-directed-06",
+      "thynk-directed-07",
+      "thynk-directed-08",
+      "thynk-directed-09",
+      "thynk-directed-10",
+      "thynk-directed-11",
+      "thynk-directed-12",
+      "thynk-directed-13",
+      "thynk-directed-14",
+      "thynk-directed-15",
+      "thynk-directed-16",
+      "thynk-directed-17",
+      "thynk-directed-18",
+      "thynk-directed-19",
+      "thynk-directed-20"
+    ],
+    "active": "thynk-directed-01",
+    "scenes": 22,
+    "duration": 54.186
+  },
+  "templates": [
+    {
+      "id": "thynk-directed-01",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-02",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-03",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-04",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-05",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-06",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-07",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-08",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-09",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-10",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-11",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-12",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-13",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-14",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-15",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-16",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-17",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-18",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-19",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    },
+    {
+      "id": "thynk-directed-20",
+      "scenes": [
+        {
+          "kind": "intro",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "mockups",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "smarter",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "clip",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "captions",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "social",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "wiretitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "prompt",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "screens",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "code",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "foodtitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "scan",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "tracking",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "artitle",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ar",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "stack",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "ship",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "need",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "message",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "guide",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "comment",
+          "visible": true,
+          "images": true,
+          "finite": true
+        },
+        {
+          "kind": "follow",
+          "visible": true,
+          "images": true,
+          "finite": true
+        }
+      ],
+      "icons": 4,
+      "frames": 3
+    }
+  ],
+  "captions": [],
+  "frames": [
+    {
+      "format": "original",
+      "uniform": true,
+      "field": [
+        400,
+        150,
+        35
+      ],
+      "screens": [
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        }
+      ]
+    },
+    {
+      "format": "phone",
+      "uniform": true,
+      "field": [
+        400,
+        150,
+        35
+      ],
+      "screens": [
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        }
+      ]
+    },
+    {
+      "format": "square",
+      "uniform": true,
+      "field": [
+        400,
+        150,
+        35
+      ],
+      "screens": [
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        }
+      ]
+    },
+    {
+      "format": "desktop",
+      "uniform": true,
+      "field": [
+        400,
+        150,
+        35
+      ],
+      "screens": [
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        }
+      ]
+    },
+    {
+      "format": "tablet",
+      "uniform": true,
+      "field": [
+        400,
+        150,
+        35
+      ],
+      "screens": [
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        },
+        {
+          "border": "0px",
+          "radius": "35px"
+        }
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "viewport": [
+        1440,
+        1000
+      ],
+      "document": [
+        1440,
+        1000
+      ],
+      "navHeight": 48,
+      "railWidth": 48,
+      "topMatch": true,
+      "heightMatch": true,
+      "oldHeader": "none"
+    },
+    {
+      "viewport": [
+        1361,
+        634
+      ],
+      "document": [
+        1361,
+        634
+      ],
+      "navHeight": 48,
+      "railWidth": 48,
+      "topMatch": true,
+      "heightMatch": true,
+      "oldHeader": "none"
+    },
+    {
+      "viewport": [
+        1024,
+        768
+      ],
+      "document": [
+        1024,
+        768
+      ],
+      "navHeight": 48,
+      "railWidth": 48,
+      "topMatch": true,
+      "heightMatch": true,
+      "oldHeader": "none"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "document": [
+        390,
+        844
+      ],
+      "navHeight": 48,
+      "railWidth": 48,
+      "topMatch": true,
+      "heightMatch": true,
+      "oldHeader": "none"
+    }
+  ],
+  "edits": {
+    "edit": {
+      "x": 20,
+      "radius": 25
+    },
+    "exists": true,
+    "figure": 6
+  },
+  "sound": {
+    "buffers": [
+      "chime",
+      "hit",
+      "pop",
+      "whoosh"
+    ],
+    "cues": 68,
+    "captionTypes": [
+      "pop"
+    ],
+    "audio": "file:///workspace/scratch/98ccd514dc9e/work/Motion-Studio-V2/assets/audio/master-source-audio.m4a",
+    "vol": 0.916488096531086
+  },
+  "playback": {
+    "time": 0.316072,
+    "audio": 0.319812,
+    "playing": true
+  },
+  "errors": [],
+  "passed": true
+}
