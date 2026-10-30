@@ -1,4 +1,8 @@
-# Motion Studio V3 — Thynk director's cut
+# Motion Studio V5 — Thynk director's cut
+
+## V5 generation contract
+
+The first render keeps the source template's authored layout. **Generate** saves queued assets, advances a generation seed, and reassigns scene-aware caption, motion, transition and layout treatments without changing the measured narration or uploaded media. Every source asset must be explicitly assigned: extra references may inform the style without appearing in the final video. The ClipFlow editor interface is reconstructed as procedural layers with lime crop handles and tracked timeline motion based on the supplied first/second reference-frame imagery. Outer/inner screen geometry uses a 35px radius and no device bezel. All selects share the canvas-style option popup.
 
 This document follows the user's scene-by-scene brief, not the previous generic films. The only built-in catalog contains the twenty films below. All share the uncut 54.186-second Thynk narration and the same semantic sequence. User-created copies are separate, explicit additions.
 

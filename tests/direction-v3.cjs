@@ -70,5 +70,5 @@ assert(html.includes('styles/reference-library.css'));
 assert(read('src/workspace.js').includes("['references','Reference Library']"));
 assert(read('src/core.js').includes("mkReferenceLibrary(addTab('Reference Library'))"));
 assert(read('scripts/build-portable.py').includes('assets/reference-library'));
-assert(read('package.json').includes('motion-studio-v3'));
+assert(read('package.json').includes('motion-studio-v5'));
 console.log('PASS: 20 unique V3 directions; unique caption/transition/motion modes; violet/white/pink palette; 79 references and all source/poster paths; library UI and portable integration.');

@@ -457,10 +457,10 @@ function themeVars(){const cs=getComputedStyle(stage),o={};TKEYS.forEach(k=>o[k]
 function setFonts(){const c=FONTS_CAP.find(f=>f[0]===FONTSEL.cap),d=FONTS_DISP.find(f=>f[0]===FONTSEL.disp);if(c)stage.style.setProperty('--f-body',c[1]);if(d)stage.style.setProperty('--f-disp',d[1])}
 
 /* ---- save / load ---- */
-function snapshot(withAssets){return{v:1,templateId:ACTIVE_TEMPLATE,format:FMT,canvasFormat:FMT,components:componentSnapshot(withAssets),frames:{...FRAMES},transportShown:OBJECTS.transport,CFG,MOT:{...MOT},theme:themeVars(),fonts:{...FONTSEL},cues:CUES.map(c=>({t:c.t,type:c.type,w:c.w,on:c.on!==false,v:c.v==null?1:c.v})),
+function snapshot(withAssets){return{v:5,variation:V5_VARIATION,templateId:ACTIVE_TEMPLATE,format:FMT,canvasFormat:FMT,components:componentSnapshot(withAssets),frames:{...FRAMES},transportShown:OBJECTS.transport,CFG,MOT:{...MOT},theme:themeVars(),fonts:{...FONTSEL},cues:CUES.map(c=>({t:c.t,type:c.type,w:c.w,on:c.on!==false,v:c.v==null?1:c.v})),
   vo:{lines:VO_LINES,tts:{...TTS},offset:MEDIA.vo.offset,vol:MEDIA.vo.vol},music:{offset:MEDIA.music.offset,vol:MEDIA.music.vol},pad:PADVOL,master:MASTER,autoTicks:AUTO_ON,assets:withAssets?ASSET:undefined,referenceAssets:Object.fromEntries(Object.entries(ASSET.directed||{}).filter(([k,v])=>typeof v==='string'&&v.startsWith('assets/reference-library/')))}}
 let SAVED_THEME=null;
-function applyState(s){if(!s)return;configureTemplate(s.templateId);loadComponentState(s);
+function applyState(s){if(!s)return;V5_VARIATION=Number.isSafeInteger(s.variation)&&s.variation>=0?s.variation:0;configureTemplate(s.templateId);loadComponentState(s);
   const requestedFormat=s.canvasFormat||s.format;FMT=FORMATS[requestedFormat]?requestedFormat:'original';
   if(s.CFG){CFG=JSON.parse(JSON.stringify(DEF));Object.assign(CFG,s.CFG);CFG.c=Object.assign({},DEF.c,s.CFG.c||{});CFG.nav=s.CFG.nav||DEF.nav}
   if(s.MOT)Object.assign(MOT,MOT_DEF,s.MOT);

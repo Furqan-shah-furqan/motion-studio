@@ -1,6 +1,24 @@
-# Motion Studio V3 — Thynk director's cut
+# Motion Studio V5 — Thynk motion generator
 
-Open `motion-studio.html` for the portable editor, or run `npm start` and open http://localhost:8080 for the organized source project. No paid API or generation service is required.
+V5 adds a green **+** button at the top of the sidebar for assets and sound effects, plus **✦ Generate** in the toolbar. After saving images, videos and SFX, each Generate click creates a different seeded, frame-accurate composition using the **same assigned assets, scene narration, captions and timing**. Cuts can be reproduced from their saved generation number. Generic photos and videos are never scattered across unrelated scenes. ClipFlow's crop animation, timeline, playhead and captions are original HTML/CSS/SVG-style graphics informed by the two supplied reference frames. Device screens have no bezels or black frame; screen and panel corners use 35px radii. Native selects in the editor use the same styled popup treatment as the canvas menu.
+
+The existing 20 directed templates remain available. This is a browser-native animation engine; it adapts motion-design principles from Hairline, Anatomy, Flick, Hypit, HyperFrames and Remotion, but does **not** install external AI agents or require their credentials. Uploaded assets persist in the browser's IndexedDB. A new Generate click selects a new deterministic direction; it does not invoke a paid AI text-to-video service.
+
+**Windows installation from GitHub (CMD):**
+
+```cmd
+cd /d "E:\motion Studio"
+git clone https://github.com/Furqan-shah-furqan/motion-studio.git Motion-Studio-V5
+cd Motion-Studio-V5
+npm ci
+npm start
+```
+
+Open `http://localhost:8080`. Later, stop the app and run `git pull origin main` followed by `npm start` to sync updates. The old `Motion-studio-V3` folder can remain untouched.
+
+**Note:** `motion-studio.html` and the MP4 files in `exports/` were created before V5; run `npm run build:portable` and `npm run render` locally if you want updated standalone HTML and all MP4 files. V5 rendering has not been confirmed in a real browser on this build.
+
+Run `npm start` and open http://localhost:8080 for the V5 source project. No paid API or generation service is required.
 
 The template picker contains exactly 20 built-in Thynk films. Each uses the same 54.186-second script and original narration, while the shared purple / white / pink palette frames 20 different caption entrances, 20 scene-transition styles, and 20 distinct motion-graphic treatments. Layouts, entry motion, wipes, framing, textures and pacing vary by template. Synchronized SFX and the editable source project are retained. `DESIGN.md` documents every scene and direction.
 

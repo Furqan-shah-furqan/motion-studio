@@ -1,11 +1,11 @@
 {
-  "name": "motion-studio-v3",
+  "name": "motion-studio-v5",
   "private": true,
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
     "render": "node scripts/render.mjs",
-    "check": "node tests/syntax.cjs && node tests/editor-regression.cjs && node tests/direction-v3.cjs",
+    "check": "node tests/syntax.cjs && node tests/editor-regression.cjs && node tests/direction-v3.cjs && node tests/v5-generation.cjs",
     "build:portable": "python3 scripts/build-portable.py",
     "check:browser": "node tests/hairline-motion.cjs && node tests/directed-browser.cjs && node tests/directed-assets.cjs",
     "build:hairline": "node third-party/hairline/build-motion.cjs"
